@@ -1,0 +1,12 @@
+.container {
+  max-width: 145rem;
+  height: 50rem;
+  margin: 2rem auto;
+  padding: 2rem;
+
+  background-color: var(--color-primary);
+  color: var(--color-primary-light);
+
+  border-radius: 3px;
+  box-shadow: var(--shadow-dark);
+}
